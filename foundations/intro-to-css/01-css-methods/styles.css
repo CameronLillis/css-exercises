@@ -1,0 +1,23 @@
+/* div: 
+a red background, 
+white text, a font size of 32px, 
+ center aligned, and bold */
+
+div {
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p {
+    background-color: green;
+    font-size: 18px;
+    color: white;
+}
+
+button {
+    background-color: orange;
+    font-size: 18px;
+}
